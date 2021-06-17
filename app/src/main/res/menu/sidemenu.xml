@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+       android:id="@+id/nav_CarFix"
+        android:title="carfix"
+        android:icon="@drawable/ic_baseline_directions_car_24"
+        />
+    <item
+
+        android:id="@+id/nav_constraint"
+        android:title="constraint"
+        android:icon="@drawable/ic_baseline_deck_24"/>
+    <item
+
+        android:id="@+id/nav_linearlayout"
+        android:title="Linear Layout"
+        android:icon="@drawable/ic_baseline_drag_indicator_24"
+        />
+
+    <item
+        android:id="@+id/nav_recycle"
+        android:title="Recycler View"
+        android:icon="@drawable/ic_baseline_deck_24"
+
+    />
+
+    <item
+        android:id="@+id/nav_auto"
+        android:title="Auto View"
+        android:icon="@drawable/ic_baseline_view_week_24"
+
+        />
+    <item
+        android:id="@+id/nav_radio"
+        android:title="Radio Button"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+    <item
+        android:id="@+id/nav_scroll"
+        android:title="Horizontal Scroll"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+    <item
+        android:id="@+id/nav_table"
+        android:title="Table layouts"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+    <item
+        android:id="@+id/nav_intent"
+        android:title="Intent sharing"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+    <item
+        android:id="@+id/nav_receipts"
+        android:title="Receipts"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+    <item
+        android:id="@+id/nav_fragment"
+        android:title="Fragment Class"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+
+    <item
+        android:id="@+id/nav_spin"
+        android:title="Spinners"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+    <item
+        android:id="@+id/nav_view"
+        android:title="List View"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+    <item
+        android:id="@+id/nav_fragmentmodel"
+        android:title="Fragment Model"
+        android:icon="@drawable/ic_baseline_radio_button_checked_24"
+
+        />
+
+
+
+
+</menu>

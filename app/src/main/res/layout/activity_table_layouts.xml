@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp">
+    <TextView
+        android:id="@+id/vehicle"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="POPULAR VEHICLES"
+        android:padding="20dp"
+        android:textColor="#D3E91E63"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        />
+
+    <TableRow
+        android:background="#C1A31D1D"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Motors"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Color"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Speed"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Latest"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+    </TableRow>
+    <TableRow
+        android:background="#CB7C1E3E"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="BMW"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Metallic"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="60mph/3.1s"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="X6"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+
+
+
+    </TableRow>
+
+    <TableRow
+        android:background="#C89C27B0"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="AUDI"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Pearl"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="60mph/3.6s"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Q7"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:background="#CD3F51B5"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="FERRARI"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Enzo"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="214mph"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="SF90"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+
+
+
+    </TableRow>
+    <TableRow
+        android:background="#BEFF5722"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="HONDA"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Activa"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="169mph/4.9s"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Accord"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+
+
+
+    </TableRow>
+    <TableRow
+        android:background="#C65D6324"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="FORD"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Cobra"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="472.5kmph"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:text="Expedition"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+
+
+
+    </TableRow>
+
+
+
+
+</TableLayout>

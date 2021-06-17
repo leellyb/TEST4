@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/bottomCarFix"
+        android:title="carfix"
+        android:icon="@drawable/ic_baseline_directions_car_24"
+        />
+    <item
+
+        android:id="@+id/bottomconstraint"
+        android:title="constraint"
+        android:icon="@drawable/ic_baseline_deck_24"/>
+    <item
+
+        android:id="@+id/bottomlinearlayout"
+        android:title="Linear Layout"
+        android:icon="@drawable/ic_baseline_drag_indicator_24"
+        />
+</menu>
